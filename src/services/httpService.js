@@ -1,5 +1,4 @@
 import axios from "axios";
-import config from "../config.json";
 import { toast } from "react-toastify";
 
 // For error handling
@@ -13,7 +12,7 @@ axios.interceptors.response.use(null, error => {
 });
 
 // BaseUrl setup
-axios.defaults.baseURL = config.TMDB_API_URL;
+axios.defaults.baseURL = process.env.REACT_APP_TMDB_API_URL;
 
 export default {
     get: axios.get,
