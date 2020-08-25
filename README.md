@@ -19,6 +19,13 @@ I've used React.js, TMDB API services and Axios for this project. This project m
 
 Note: You need to add your TMDB_API_KEY as `REACT_APP_TMDB_API_KEY` and TMDB_API_URL as `REACT_APP_TMDB_API_URL` in the `.env` file.
 
+## Features
+
+<ul>
+   <li>Latest movies list</li>
+    <li>Watch the movies trailers</li>
+</ul>
+
 ## Running Locally
 
 <ol>
