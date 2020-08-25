@@ -1,6 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="https://github.com/Manojkumar8497/Netflix-Clone/blob/master/public/logo.png" alt="Logo" width="500">
+
+  <h1 align="center">Netflix Clone</h1>
+  <p align="center">This is a Netflix home page clone application, which is built by React and TMDB API service.</p>
+</p>
+
+## Demo
+
+<p align="center">
+  <img src="https://github.com/Manojkumar8497/Netflix-Clone/blob/master/public/demo.gif"/>
+</p>
+
+[Live Demo](https://manojkumar8497.github.io/Netflix-Clone/)
+
+## Technologies Used
+
+I've used React.js, TMDB API services and Axios for this project. This project mainly focused on cloning the Netflix homepage. I've used the TMDB API to show the movies list based on the genres types. For the movie trailer seaching, I've used the movie-trailer and react-youtube NPM packages.
+
+Note: You need to add your TMDB_API_KEY as `REACT_APP_TMDB_API_KEY` and TMDB_API_URL as `REACT_APP_TMDB_API_URL` in the `.env` file.
 
 ## Available Scripts
+
+After cloning the repo, do `npm insatll`.
 
 In the project directory, you can run:
 
@@ -43,26 +64,18 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## More Updates
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Follow me on [LinkedIn](https://www.linkedin.com/in/manoj-m8497/) to get the latest update about features, code, and more. If you like this project give a star to this repo.
 
-### Analyzing the Bundle Size
+## Thanks
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Thanks to all contributors and their support.
 
-### Making a Progressive Web App
+If you have an idea or you want to do something, tell me or just do it!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+I'm always happy to hear your feedback!
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Copyright and license
+  
+Code and documentation copyright 2020 the authors. Code released under the [MIT License](https://github.com/Manojkumar8497/Netflix-Clone/blob/master/LICENSE).
