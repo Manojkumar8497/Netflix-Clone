@@ -11,7 +11,7 @@
   <img src="https://github.com/Manojkumar8497/Netflix-Clone/blob/master/public/demo.gif"/>
 </p>
 
-[Live Demo](https://manojkumar8497.github.io/Netflix-Clone/)
+### [Live Demo](https://manojkumar8497.github.io/Netflix-Clone/)
 
 ## Technologies Used
 
