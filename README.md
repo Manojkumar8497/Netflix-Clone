@@ -17,8 +17,6 @@
 
 I've used React.js, TMDB API services and Axios for this project. This project mainly focused on cloning the Netflix homepage. I've used the TMDB API to show the movies list based on the genres types. For the movie trailer seaching, I've used the movie-trailer and react-youtube NPM packages.
 
-Note: You need to add your TMDB_API_KEY as `REACT_APP_TMDB_API_KEY` and TMDB_API_URL as `REACT_APP_TMDB_API_URL` in the `.env` file.
-
 ## Features
 
 <ul>
